@@ -1,0 +1,46 @@
+.card
+    {
+        border-radius: 4px;
+        border: 9px solid white;
+    }
+    .card:hover{
+        box-shadow: 0px 10px 10px rgb(87, 86, 86);  
+    }
+    .btn{
+        font-size: 17px;
+
+    }
+    footer{
+        background-color: black;
+        color: white;
+        font-size: 13px;
+    }
+    a
+    {
+        cursor: pointer;
+        color: white;
+    }
+    a:hover
+    {
+        color: white;
+        text-decoration: none;
+    }
+    .col-1,.col-2
+    {
+        border: 1px solid rgb(205, 201, 201) ;
+        height: 50px;
+        text-align: center;
+        padding-top: 8px;
+        font-weight: bold;
+    }
+    .col-2:hover{
+        background-image:url(Oneph11.jpg);
+    }
+    pre{
+        font-size: 17px;
+        color: white;
+    }
+    i{
+        color: white;
+        font-size: 17px;
+    }
